@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+D:\Documents\cpp\Лабораторні ОП\№3\ConsoleApplication1\ConsoleApplication1.cpp(10,43): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Documents\cpp\Лабораторні ОП\№3\ConsoleApplication1\ConsoleApplication1.cpp(13,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> D:\Documents\cpp\Лабораторні ОП\№3\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
